@@ -1,0 +1,1 @@
+jdbc:mysql://localhost:3306/VB1308_AJP_Lab3?zeroDateTimeBehavior=convertToNull
